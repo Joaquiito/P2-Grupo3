@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1666288404 source:c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\p2-grupo3\p2-grupo3\main.c
+	<stdio.h>
+	"RAC.h"
+
+1666288659 c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\p2-grupo3\p2-grupo3\rac.h
+	"RS.h"
+
+1665444747 c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\p2-grupo3\p2-grupo3\rs.h
+	"LV.h"
+
+1665444697 c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\p2-grupo3\p2-grupo3\lv.h
+	"ABB.h"
+
+1666295499 c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\p2-grupo3\p2-grupo3\abb.h
+	"Vendedor.h"
+
+1665447658 c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\p2-grupo3\p2-grupo3\vendedor.h
+	<malloc.h>
+	<string.h>
+	<ctype.h>
+
